@@ -1,0 +1,58 @@
+{
+    "300033": {
+        "name": "同花顺",
+        "alert_high": 0.0,
+        "alert_low": 0.0,
+        "alert_percent": 0.0,
+        "last_alert_time": 0,
+        "base_price": 325.06
+    },
+    "600010": {
+        "name": "包钢股份",
+        "alert_high": 0.0,
+        "alert_low": 0.0,
+        "alert_percent": 0.0,
+        "last_alert_time": 0,
+        "base_price": 2.95
+    },
+    "605117": {
+        "name": "德业股份",
+        "alert_high": 0.0,
+        "alert_low": 0.0,
+        "alert_percent": 0.0,
+        "last_alert_time": 0,
+        "base_price": 135.99
+    },
+    "511380": {
+        "name": "可转债ETF博时",
+        "alert_high": 0.0,
+        "alert_low": 0.0,
+        "alert_percent": 0.0,
+        "last_alert_time": 1773304040.7951608,
+        "base_price": 14.239
+    },
+    "688717": {
+        "name": "艾罗能源",
+        "alert_high": 0.0,
+        "alert_low": 0.0,
+        "alert_percent": 0.0,
+        "last_alert_time": 1773304040.833089,
+        "base_price": 145.6
+    },
+    "560360": {
+        "name": "软件ETF万家",
+        "alert_high": 0.0,
+        "alert_low": 0.0,
+        "alert_percent": 0.0,
+        "last_alert_time": 1773304040.8508923,
+        "base_price": 1.554
+    },
+    "399006": {
+        "name": "创业板指",
+        "alert_high": 0.0,
+        "alert_low": 0.0,
+        "alert_percent": 0.0,
+        "last_alert_time": 1773304040.8690932,
+        "base_price": 3317.522
+    }
+}
